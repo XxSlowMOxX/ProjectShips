@@ -14,5 +14,6 @@ namespace Photon.Chat
         public bool PublishSubscribers { get; set; }
         /// <summary>Limit of the number of users subscribed to the channel to be created.</summary>
         public int MaxSubscribers { get; set; }
+        /// Markus ist blöd
     }
 }

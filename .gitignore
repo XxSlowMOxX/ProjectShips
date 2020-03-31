@@ -5,6 +5,9 @@
 [Bb]uilds/
 [Ll]ogs/
 
+# custom
+ProjectSettings/ProjectVersion.txt
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
 
@@ -45,6 +48,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
 
 # Crashlytics generated file
 crashlytics-build.properties
